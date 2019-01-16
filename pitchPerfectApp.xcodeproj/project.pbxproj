@@ -12,6 +12,7 @@
 		18D6D9EC21EE10DC0023CBDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D6D9EA21EE10DC0023CBDB /* Main.storyboard */; };
 		18D6D9EE21EE10EC0023CBDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D6D9ED21EE10EC0023CBDB /* Assets.xcassets */; };
 		18D6D9F121EE10EC0023CBDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D6D9EF21EE10EC0023CBDB /* LaunchScreen.storyboard */; };
+		18D6D9F921EE26200023CBDB /* PitchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D6D9F821EE26200023CBDB /* PitchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18D6D9ED21EE10EC0023CBDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D6D9F021EE10EC0023CBDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D6D9F221EE10EC0023CBDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18D6D9F821EE26200023CBDB /* PitchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				18D6D9E621EE10DC0023CBDB /* AppDelegate.swift */,
 				18D6D9E821EE10DC0023CBDB /* ViewController.swift */,
+				18D6D9F821EE26200023CBDB /* PitchViewController.swift */,
 				18D6D9EA21EE10DC0023CBDB /* Main.storyboard */,
 				18D6D9ED21EE10EC0023CBDB /* Assets.xcassets */,
 				18D6D9EF21EE10EC0023CBDB /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				18D6D9E921EE10DC0023CBDB /* ViewController.swift in Sources */,
 				18D6D9E721EE10DC0023CBDB /* AppDelegate.swift in Sources */,
+				18D6D9F921EE26200023CBDB /* PitchViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
